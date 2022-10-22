@@ -3,6 +3,12 @@
 ## What
 A tool that allows you to change the redirect destination while keeping the same domain by simply changing the contents of a Google spreadsheet.
 
+![スクリーンショット 2022-10-22 0 29 45](https://user-images.githubusercontent.com/81791711/197308454-8d60a2e4-3272-46a9-abfe-5697ec59efac.png)
+
+https://user-images.githubusercontent.com/81791711/197308442-9938fadb-4350-4927-8c50-f5e804ee408f.mov
+
+
+
 ## How
 ### 1. Run `composer install`
 If composer is not present, please install it.
