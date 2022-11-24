@@ -23,3 +23,6 @@ TAB_NAME=xxxxxx
 API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 Mine is [here](https://drive.google.com/drive/folders/1ScWarU2bVj8orh6sQKSi5_1i8AdupkHa), but only I can download it.
+
+## Issues
+https://github.com/Taiki-ss/multi-redirect/issues
