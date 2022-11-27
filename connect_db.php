@@ -18,3 +18,9 @@ try {
     echo 'DB接続に失敗しました。';
     exit;
 }
+
+// 自動insertテスト
+$result = $db->query("SELECT * FROM urls");
+if (!$result->fetch()) {
+    $db->query("INSERT INTO urls VALUES(1,'bbb','2022-11-27')");
+}
